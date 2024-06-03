@@ -1,0 +1,33 @@
+body {
+    font-family: "Lucida Console";
+}
+
+h1 {
+    color: MediumSeaGreen;
+    text-align: center;
+    font-size: 55px;
+}
+p {
+    color: rgb(25, 104, 61);
+    text-align: center;
+    font-size: medium;
+}
+
+li {
+    color: rgb(25, 104, 61);
+    text-align: center;
+    font-size: medium;
+}
+
+/*---
+FORM STYLES
+---*/
+
+.inputs {
+    width: 30%;
+    padding: 6px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(83, 117, 21);
+    border-radius: 7px;
+}
